@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ElementNetwork™ Help
 description: ElementNetwork™ Help Pages
+plugins:
+  - jekyll-sitemap
