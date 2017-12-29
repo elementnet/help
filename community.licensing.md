@@ -1,3 +1,7 @@
+---
+title: Licensing
+url: /community/licensing
+---
 # Licensing
 All projects are licensed under the [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0)
 
