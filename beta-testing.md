@@ -1,3 +1,7 @@
+---
+title: Beta Testing
+url: /beta-testing
+---
 # Beta Testing on ElementNetwork
 In order to beta test ElementNetwork, you will need [Git](https://git-scm.com), [Node.JS](https://nodejs.org), and [NPM](https://www.npmjs.com)
 
