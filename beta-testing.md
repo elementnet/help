@@ -19,7 +19,7 @@ cd elementnet-testing
 git fetch --all
 git reset --hard HEAD
 git clean -f -d
-# If you were told to switch branches, change master to that branch
+# If you were told to switch branches, change develop to that branch
 git pull origin develop
 npm install && npm start
 ```
